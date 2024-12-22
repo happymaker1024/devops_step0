@@ -21,7 +21,7 @@ class DevopsStep0ApplicationTests {
 	void add_test1() {
 		int result = add(10, 20);
 		// 함수로 비교를 함.
-		assertEquals(10, result);
+		assertEquals(30, result);
 	}
 
 }
