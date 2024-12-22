@@ -13,15 +13,15 @@ class DevopsStep0ApplicationTests {
 	}
 	
 	
-	int add(int a, int b) {
-		return a + b;		
-	}
+	// int add(int a, int b) {
+	// 	return a + b;		
+	// }
 
-	@Test
-	void add_test1() {
-		int result = add(10, 20);
-		// 함수로 비교를 함.
-		assertEquals(30, result);
-	}
+	// @Test
+	// void add_test1() {
+	// 	int result = add(10, 20);
+	// 	// 함수로 비교를 함.
+	// 	assertEquals(30, result);
+	// }
 
 }
